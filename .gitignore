@@ -1,0 +1,16 @@
+*.unityproj
+*.csproj
+*.sln
+*.suo
+*.txt
+*.app/*
+obj/*
+Log/*
+.git/
+ios/*
+.DS_Store
+_MACOSX/
+Temp/
+UnityPackagerManager/
+.vs/
+Library/
